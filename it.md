@@ -1,15 +1,17 @@
 ---
 layout: page
 title: Software
-permalink: /it/
----
+permalink: "/it/"
 
+---
 Co používám a co mě baví ze světa IT.
 
 <br>
 
-| BASH  | TeX | AWK |
+| BASH | TeX | AWK |
 | :---: | :---: | :---: |
-| ![bash](/fotky/f-bash.png) | ![TeX](/fotky/f-tex.png) | ![AWK](/fotky/f-awk.png) |
-| Fedora  | Vim | Vivaldi |
-| ![Fedora](/fotky/f-fedora.png)| ![Vim](/fotky/f-vim.png) | ![Vivaldi](/fotky/f-vivaldi.png) 
+|  |  |  |
+| Fedora | Vim | Vivaldi |
+|  |  |  |
+
+A takz mi ta stranka jede na forestry.io abych mohl mit jednoduchy blog.
