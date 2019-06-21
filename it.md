@@ -16,6 +16,6 @@ Co používám a co mě baví ze světa IT.
 
 A taky mi ta stranka jede na forestry.io abych mohl mit hezkou stránku i do Ameriky.
 
-Ahoj světě... ![](/uploads/1561133746114844955449.jpg)
+ ![](/uploads/1561133746114844955449.jpg)
 
-Jo, Balogová i takto by asi šlo, to je celkem rozumné...
+Tady Rada.
