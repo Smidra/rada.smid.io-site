@@ -11,3 +11,5 @@ fields:
     schema:
       format: markdown
   label: main text
+pages:
+- _posts/testpost2.md
