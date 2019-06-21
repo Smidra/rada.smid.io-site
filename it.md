@@ -14,4 +14,4 @@ Co používám a co mě baví ze světa IT.
 | Fedora | Vim | Vivaldi |
 |  |  |  |
 
-A taky mi ta stranka jede na forestry.io abych mohl mit jednoduchy blog.
+A taky mi ta stranka jede na forestry.io abych mohl mit hezkou stránku. 
