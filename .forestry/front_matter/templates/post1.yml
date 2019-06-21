@@ -1,4 +1,13 @@
 ---
 label: post1
 hide_body: true
-fields: []
+fields:
+- name: main_text
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: main text
