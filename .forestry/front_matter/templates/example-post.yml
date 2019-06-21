@@ -1,9 +1,6 @@
 ---
 label: example post
 hide_body: false
-fields:
-- type: text
-  name: layout
-  label: layout
+fields: []
 pages:
 - _posts/testpost1.md
