@@ -1,4 +1,4 @@
 ---
-layout: Post It lives
+layout: post  It lives
 
 ---
