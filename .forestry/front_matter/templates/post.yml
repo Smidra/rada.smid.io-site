@@ -5,6 +5,3 @@ fields:
 - type: text
   name: layout
   label: layout
-pages:
-- _posts/Adnešní Kuchyně.md
-- _posts/Dnešní kuchyně.md
