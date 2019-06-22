@@ -14,4 +14,4 @@ Co používám a co mě baví ze světa IT.
 | Fedora  | Vim | Vivaldi |
 | ![Fedora](/fotky/f-fedora.png)| ![Vim](/fotky/f-vim.png) | ![Vivaldi](/fotky/f-vivaldi.png) 
 
-Ahoj světe z Jenkinse.
+Ahoj ze světa Jenkinse.
