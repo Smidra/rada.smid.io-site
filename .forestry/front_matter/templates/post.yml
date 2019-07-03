@@ -6,5 +6,6 @@ fields:
   name: layout
   label: layout
 pages:
+- _posts/file.md
 - _posts/České Budějovice.md
 - _posts/2019-06-22-Máme blog!.md
