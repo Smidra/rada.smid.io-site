@@ -10,8 +10,8 @@ Co používám a co mě baví ze světa IT.	Co používám a co mě baví ze sv�
  <br>	<br>
 
 
- | BASH  | TeX | AWK |	| BASH | TeX | AWK |
-| :---: | :---: | :---: |	| :---: | :---: | :---: |
-| ![bash](/fotky/f-bash.png) | ![TeX](/fotky/f-tex.png) | ![AWK](/fotky/f-awk.png) |	|  |  |  |
-| Fedora  | Vim | Vivaldi |	| Fedora | Vim | Vivaldi |
+ | BASH  | TeX | AWK |
+| :---: | :---: | :---: |
+| ![bash](/fotky/f-bash.png) | ![TeX](/fotky/f-tex.png) | ![AWK](/fotky/f-awk.png) |
+| Fedora  | Vim | Vivaldi |
 | ![Fedora](/fotky/f-fedora.png)| ![Vim](/fotky/f-vim.png) | ![Vivaldi](/fotky/f-vivaldi.png) 
