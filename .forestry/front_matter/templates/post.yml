@@ -5,6 +5,15 @@ fields:
 - type: text
   name: layout
   label: layout
+- name: date
+  type: datetime
+  label: date
+  description: ''
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: false
 pages:
 - _posts/Jedeme dál.md
 - _posts/2019-06-22-Máme blog!.md
