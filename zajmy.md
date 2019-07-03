@@ -4,7 +4,7 @@ title: Zájmy
 permalink: "/zajmy/"
 
 ---
-## Origami - test
+## Origami
 
 Už od svých 13 let je origami mojí velikou zálibou.
 Neskládám ale jenom v soukromí.
