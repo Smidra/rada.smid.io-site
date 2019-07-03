@@ -1,11 +1,10 @@
 ---
 layout: page
 title: Kontakt
-permalink: /kontakt/
----
+permalink: "/kontakt/"
 
-Sociální sitě nijak aktivně nevedu,...
-takže pokud mi budete chtít napsat tak pište na mail. 
+---
+Sociální sítě nijak aktivně nevedu,... takže pokud mi budete chtít napsat tak pište na mail.
 
 **rad.smid (na) gmail.com**
 
