@@ -6,6 +6,6 @@ permalink: /chramy/
 
 ### Sakrální stavba pro dnešní den
 
-<!-- STAVBA --> tady
+<!-- STAVBA -->
 
 
