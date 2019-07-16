@@ -4,8 +4,6 @@ title: Generátor sakrálních staveb
 permalink: /chramy/
 ---
 
-### Sakrální stavba pro dnešní den
-
 <!-- STAVBA -->
 
-
+Kdyby někomu náhodou zdál tento generátor urážlivý, nechť mě kontaktuje.
