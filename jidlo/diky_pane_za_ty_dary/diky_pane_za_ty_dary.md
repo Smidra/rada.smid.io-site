@@ -6,5 +6,5 @@ razeni: diky pane za ty dary
 
 Díky Pane za ty dary. Amen, Amen.
 
-![čeho třeba](ceho_treba.png){:class="img-responsive"}
+![Díky Pane za ty dary](diky_pane_za_ty_dary.png){:class="img-responsive"}
 
