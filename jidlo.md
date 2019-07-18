@@ -8,3 +8,5 @@ permalink: /jidlo/
 ---
 
 Písničky pro zpěv před jídlem.
+
+Pokud vám nějaká chybí nebo přebývá podívejte se na stránku [vývoj](./vyvoj).
