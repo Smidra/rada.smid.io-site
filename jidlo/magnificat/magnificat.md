@@ -1,7 +1,7 @@
 ---
 layout: pisen
 title: Magnificat
-razeni: Magnificat
+razeni: magnificat
 ---
 
 Magnificat, magnificat, magnificat anima mea Dominum, 
