@@ -9,7 +9,7 @@ Pokud se chcete do vývoje zpěvníku zapojit můžete si stáhnout
 
 Stáhněte a načtěte si styl (pravé tlačítko -> nahrát styl)
 [Pro Windows](jidlostyle-win.mss){:target="_blank"}
-[Pro Linux](https://musescore.org/cs){:target="_blank"}
+[Pro Linux](jidlostyle-lin.mss){:target="_blank"}
 
 Zpěvník sám můžete najít na [GitHub.com](https://github.com/Smidra/rada.smid.io-site/tree/master/jidlo).
 
