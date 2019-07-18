@@ -6,4 +6,4 @@ permalink: /chramy/
 
 <!-- STAVBA -->
 
-Kdyby se někomu náhodou zdál tento generátor urážlivý, nechť mě kontaktuje.
+[Upozornění](https://media.giphy.com/media/AxSjsPx69RfR6/giphy.gif)
