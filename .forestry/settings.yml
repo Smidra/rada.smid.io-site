@@ -10,8 +10,8 @@ sections:
 - type: jekyll-posts
   label: Posts
   create: all
-upload_dir: fotky
-public_path: "/fotky"
+upload_dir: fotky-amerika
+public_path: "/fotky-amerika"
 front_matter_path: ''
 use_front_matter_path: false
 file_template: ":filename:"
