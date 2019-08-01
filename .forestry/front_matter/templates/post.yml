@@ -15,6 +15,7 @@ fields:
     time_format: 
     display_utc: false
 pages:
+- _posts/Přípravy vrcholí.md
 - _posts/Tony se stěhuje.md
 - _posts/2019-06-22-Máme blog!.md
 - _posts/Budějce balí.md
