@@ -5,6 +5,8 @@ date: 2019-08-03 09:00:00 +0200
 ---
 Sobota perfektní den. Všechno klaplo, observatoř, lezení po Hollywood kopcích, downtown, mrakodrapy, koncertní síň, Santa Monica pláž, koncert.
 
+Koncert byl uvnitř obchodu s batohy hned vedle pobřeží. 
+
 ![](/fotky-amerika/96126EA0-1399-4554-A431-E909C493984D.jpeg)
 
 ![](/fotky-amerika/18983900-84FA-4097-843A-6C58BB4387CF.jpeg)
