@@ -15,7 +15,7 @@ Když z jsem u těch zvířat. Na pláži jsme viděli hromady rypoušů. To byl
 
 Nikam se tu nesmí. Prostě, na to jak USA samý, svoboda, volnost.... Je to tady úplně přeplněné cedulemi zákaz vstupu pod pokutou XY. Prostě jezdíme I chodíme mezi dvěma ploty tam a zpátky.  Nwm no. Jenom můj pocit. Tony a taťka říkají, že to tak strašny není.
 
-Nejhorší je, že tu nemůžu položit kabel v přírodě nebo u silnice. Je to tu zakázaný. Musím počkat až u cesty bude nějaký vyhlídkový bod (Vista point) s kadibudkou abych "nekazil dobré mravy"
+Nejhorší je, že tu nemůžu čůrat v přírodě nebo u silnice. Je to tu zakázaný. Musím počkat až u cesty bude nějaký vyhlídkový bod (Vista point) s kadibudkou abych "nekazil dobré mravy"
 
 Taťka dodává: zase je tu těch kadibudek hodně
 
@@ -29,4 +29,4 @@ Taťka dodává: kemping je skvělá věc, ale tepla sprcha v airbnb je na úpln
 
 ![](/fotky-amerika/F6C88597-99AD-468A-AD33-AD0C2CD7E233.jpeg)
 
->  víc fotek v galerii 
+> víc fotek v galerii
