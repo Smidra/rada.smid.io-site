@@ -11,7 +11,7 @@ Už dopoledne jsme viděli veliké pole jahod. Skoro to vypadalo jako kdyby dozr
 
 Jo a taky jsme narazili na stádo zeber. Úplně nevíme co tady dělalo, ale bylo to kůl.
 
-Když z jsem u těch zvířat. Na pláži jsme viděli hromady rypoušů. To bylo jak z jinýho světa. Viz foto.
+Když z jsem u těch zvířat. Na pláži jsme viděli hromady rypoušů. To bylo jak z jinýho světa. Viz foto.... A ty zvuky, jako když krka vodovodní trubka, ale hooodne nahlas.
 
 Nikam se tu nesmí. Prostě, na to jak USA samý, svoboda, volnost.... Je to tady úplně přeplněné cedulemi zákaz vstupu pod pokutou XY. Prostě jezdíme I chodíme mezi dvěma ploty tam a zpátky.  Nwm no. Jenom můj pocit. Tony a taťka říkají, že to tak strašny není.
 
@@ -26,3 +26,7 @@ Ted už v airbnb kousek před San Francisco. Zitra prozkoumat město, pozítří
 Taťka dodává: kemping je skvělá věc, ale tepla sprcha v airbnb je na úplně jiném levelu.
 
 (R)
+
+![](/fotky-amerika/F6C88597-99AD-468A-AD33-AD0C2CD7E233.jpeg)
+
+>  víc fotek v galerii 
