@@ -15,9 +15,9 @@ fields:
     time_format: 
     display_utc: false
 pages:
+- _posts/Sobota - Sequoia.md
 - _posts/Neděle - Vegas.md
 - _posts/Pátek - příjezd do Sequoia.md
-- _posts/Sobota - Sequoia.md
 - _posts/Yosemite.md
 - _posts/Středa přejezd.md
 - _posts/2019-08-06-Most!.md
