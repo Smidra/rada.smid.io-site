@@ -15,6 +15,7 @@ fields:
     time_format: 
     display_utc: false
 pages:
+- _posts/Sobota - promoce.md
 - _posts/2019-08-18-Pátek - Texas 1.md
 - _posts/Texas!.md
 - _posts/2019-08-15-Čtvrtek Phoenix.md
