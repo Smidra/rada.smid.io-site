@@ -17,7 +17,7 @@ Oběd s nejbližšími z kostela, dojemné loučení, ale nikdo nebrecel.
 Balení. Kontrola váhy a objemu do letadla.
 
 V podvečer Cameron park. Řeka, skály, stromy skoro jako u nás, až na bambusovou džungli.  
-Na kraji parku grilují Mexikanci maso a pinkají volejbal, styl Mácháč. S úsměvem odmítáme pozvání hlavy rodiny na tací.
+Na kraji parku grilují Mexikanci maso a pinkají volejbal, styl Mácháč. S úsměvem odmítáme pozvání hlavy rodiny na taco.
 
 Nákup, večeře, pivo a spát.
 
