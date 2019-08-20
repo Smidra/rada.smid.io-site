@@ -15,6 +15,7 @@ fields:
     time_format: 
     display_utc: false
 pages:
+- _posts/Pondělí Austin.md
 - _posts/Neděle, kostel a balení.md
 - _posts/2019-08-18-Sobota - promoce.md
 - _posts/Pátek - Texas 2.md
