@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Zájmy
+title: Skripta FAV
 permalink: "/skripta-sbornik-studium-fav-2019-chi/"
 
 ---
