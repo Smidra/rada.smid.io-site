@@ -11,7 +11,7 @@ layout: default
 
 <ul class="pisne-list"> <!-- Pisne list zatim neexistuje -->
 
-{% assign sorted_pages = site.pages | where: 'layout', 'pisen' | sort: 'razeni' %}
+{% assign sorted_pages = site.pages | where: 'layout', 'pisen' | sort: 'obrazek' %}
 {% for page in sorted_pages %}
 	<li>
 	<a class="pisne-link" href="{{ page.url | relative_url }}"> <!-- Pisne link zatim neexistuje -->
