@@ -1,7 +1,7 @@
 ---
 layout: pisen
 title: Ó jak to voní
-razeni: o jak to voni
+obrazek: o_jak_to_voni.png
 ---
 
 //: Ó jak to voní, když se jídlo nese ke stolu.
