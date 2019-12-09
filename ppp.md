@@ -4,8 +4,9 @@ title: Pohádky pohádky pohádky
 permalink: /ppp/
 ---
 
-Test!
+Celý text pohádek můžete zdarma stáhnout [zde](rada.smid.io/ppp/pohadky_pohadky_pohadky.pdf).
+Stahujte, tiskněte a šiřte ho dle libosti, ale zakazuji ho prodávat.
 
-{% raw %}<?php echo("parsed"); ?>{% endraw %}
+![O Ptácích](/fotky/f-matous.png)
 
-test
+Už jsi četl/a [pohádku o kouzelném zrcadle](rada.smid.io/ppp/poklad)?
