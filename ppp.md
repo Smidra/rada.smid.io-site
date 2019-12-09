@@ -5,3 +5,7 @@ permalink: /ppp/
 ---
 
 Test!
+
+{% raw %}<?php echo("parsed"); ?>{% endraw %}
+
+test
