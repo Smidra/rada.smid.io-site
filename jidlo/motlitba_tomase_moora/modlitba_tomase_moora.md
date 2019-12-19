@@ -1,7 +1,7 @@
 ---
 layout: pisen
 title: Motlitba Tomáše Moora
-obrazek: motlitba_tomase_moora.png
+obrazek: modlitba_tomase_moora.png
 ---
 
 /: Dopřej mi chuť k jídlu, Pane, a také něco co bych jed. :/
