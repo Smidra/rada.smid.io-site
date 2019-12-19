@@ -4,7 +4,7 @@ title: Software
 permalink: "/it/"
 
 ---
-Co používám a co mě baví ze světa IT.	Co používám a co mě baví ze světa IT.
+Co používám a co mě baví ze světa IT.
 
 
  <br>	<br>
