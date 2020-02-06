@@ -10,7 +10,7 @@ sudo fmtutil-sys --all
 sudo texhash
 ```
 
-# Strasti instalace
+# Základní instalace
 Dobrá, chceme tedy pracovat v TeXu + CSplain + OPmac.
 Víme, že instalace TeXu bude probíhat skrz repozitáře živého TeXu, tedy nainstalujeme pomocí dnf. 
 ``` bash
