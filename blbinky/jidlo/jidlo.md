@@ -4,9 +4,9 @@
 
 layout: jidlo
 title: Písničky pro zpěv před jídlem
-permalink: /jidlo/
+permalink: /blbinky/jidlo/
 ---
 
 Písničky pro zpěv před jídlem.
 
-Pokud vám nějaká chybí nebo přebývá podívejte se na stránku [vývoj](./vyvoj).
+Pokud vám nějaká chybí nebo přebývá podívejte se na stránku [vývoj](/blbinky/vyvoj-jidlo).

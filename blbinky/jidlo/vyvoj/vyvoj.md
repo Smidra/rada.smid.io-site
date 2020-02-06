@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Vývoj zpěvníku
-permalink: /jidlo/vyvoj/
+permalink: /blbinky/vyvoj-jidlo/
 ---
 
 Pokud se chcete do vývoje zpěvníku zapojit můžete si stáhnout
