@@ -1,7 +1,7 @@
 ---
 layout: page
 title: PPP deníček první
-permalink: /ppp/denik-1
+permalink: /ppp/denik-1/
 ---
 
 Ahoj,
