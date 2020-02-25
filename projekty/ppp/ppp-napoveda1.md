@@ -10,9 +10,9 @@ Je to unikát na zakázku vyrobený od [Elišky Kovaříkové](https://kovaelis.
 
 Musím říct, že mě teda zatím hon na poklad docela zklamal. Železnici zatím našel jediný člověk. Možná mám prostě akorát nudný kamarády. Moc.. dospělácký. Nevím. 
 
-Jsem si jistý, že jak budu stárhnout občas se mě někdo mezi řečí zeptá "hele a kde byl vlastně nakonec schovaný ten poklad". Takoví lidé nepochopé, že to "i po tolika letech" pořád nechci říct. Budou moje chování vnímat jako dětinské, tvrdohlavé a hlavně... hloupé.
+Jsem si jistý, že jak budu stárnout občas se mě někdo mezi řečí zeptá "hele a kde byl vlastně nakonec schovaný ten poklad". Takoví lidé nepochopí, že to "i po tolika letech" pořád nechci říct. Budou moje chování vnímat jako dětinské, tvrdohlavé a hlavně... hloupé.
 
-Jenže tajemství a hodnota jdou ruku v ruce. S partnerem nebo partnerkou si dokazujeme co pro nás ten druhý znamená pomocí tajemnství a tím utvrzujeme hodnotu našeho partnerství. Jak vyrobit peníze se neví a proto vůbec hodnotu mít můžou.
+Jenže tajemství a hodnota jdou ruku v ruce. S partnerem nebo partnerkou si pomocí tajemnství dokazujeme co pro nás ten druhý znamená a tím utvrzujeme hodnotu našeho partnerství. Jak vyrobit peníze se neví a proto vůbec hodnotu mít můžou.
 
 A hodnota tohodle tajemství musí být zachována aby si ji všichni, kdo tu knížku přečtou mohli užít. 
 
