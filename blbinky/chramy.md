@@ -4,7 +4,7 @@ title: Generátor sakrálních staveb
 permalink: /chramy/
 ---
 
-Tento generátor vytváří z legrace náhodná jména sakrálních staveb.
+Tento generátor vytvoří každou minutu z legrace náhodné jméno sakrální stavby.
 
 <!-- STAVBA -->
 
