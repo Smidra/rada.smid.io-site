@@ -8,7 +8,7 @@ permalink: "/zajmy/"
 
 Už od svých 13 let je origami mojí velikou zálibou.
 Neskládám ale jenom v soukromí.
-Jako instruktor jsem již vedl více než 10 workshopů.
+Jako instruktor jsem už vedl víc jak patnáct workshopů.
 Pokud byste si chtěli někdy zkusit zaskládat určitě mě každý rok najdete
 na zahradě konkurenční dejvické školy u příležitosti slavnosti rozkvétání sakur,
 Hanami - 花見 .
