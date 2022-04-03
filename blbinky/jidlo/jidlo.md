@@ -7,6 +7,6 @@ title: Písničky pro zpěv před jídlem
 permalink: /blbinky/jidlo/
 ---
 
-Písničky pro zpěv před jídlem.
+Inspirace pro písničky na zpěv před jídlem.
 
 Pokud vám nějaká chybí nebo přebývá podívejte se na stránku [vývoj](/blbinky/vyvoj-jidlo).
