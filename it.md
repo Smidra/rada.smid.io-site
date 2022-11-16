@@ -10,7 +10,7 @@ Co používám a co mě baví ze světa IT.
  <br>	<br>
 
 
- | BASH  | TeX | AWK |
+ | BASH  | TeX | GitLab |
 | :---: | :---: | :---: |
 | ![bash](/fotky/f-bash.png) | ![TeX](/fotky/f-tex.png) | ![AWK](/fotky/f-awk.png) |
 | Fedora  | Vim | Kubernetes |
